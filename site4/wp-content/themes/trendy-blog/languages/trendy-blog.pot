@@ -1,0 +1,1924 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Trendy Blog\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-22 09:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.8; wp-5.9\n"
+"X-Domain: trendy-blog"
+
+#. number of items in the mini cart.
+#: woocommerce/woocommerce.php:185
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:60
+msgid ", "
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:132
+#: inc/admin/customizer-upsell/theme-upsell.php:182
+#: inc/admin/customizer-upsell/theme-upsell.php:201
+#: inc/admin/customizer-upsell/theme-upsell.php:220
+#: inc/admin/customizer-upsell/theme-upsell.php:239
+msgid "25+ total layouts"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:131
+#: inc/admin/customizer-upsell/theme-upsell.php:181
+#: inc/admin/customizer-upsell/theme-upsell.php:200
+#: inc/admin/customizer-upsell/theme-upsell.php:219
+#: inc/admin/customizer-upsell/theme-upsell.php:238
+msgid "3 or more layouts in each block"
+msgstr ""
+
+#: 404.php:28 inc/class-breadcrumb.php:267 inc/hooks/hooks.php:152
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/widgets/category-collection.php:13
+msgid "A collection of post categories."
+msgstr ""
+
+#: inc/widgets/posts-list.php:13
+msgid "A collection of posts from specific category displayed in list layout."
+msgstr ""
+
+#: inc/customizer/sections/frontpage-sections.php:72
+msgid "About Author Section"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:134
+msgid ""
+"Activate Blazethemes Demo Importer Now and Import any available demo in One "
+"Click"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:114
+msgid "Active menu color and background color"
+msgstr ""
+
+#: inc/customizer/custom-controls/repeater/repeater.php:552
+#: inc/customizer/custom-controls/repeater/repeater.php:585
+msgid "Add Icon"
+msgstr ""
+
+#: inc/widgets/widget-fields.php:68
+msgid "Add image"
+msgstr ""
+
+#: inc/customizer/custom-controls/repeater/repeater.php:36
+msgid "Add new field"
+msgstr ""
+
+#: inc/widgets/author-info.php:80 inc/widgets/category-collection.php:107
+#: inc/widgets/posts-list.php:107 inc/widgets/social-icons.php:84
+msgid "Add the widget title here"
+msgstr ""
+
+#: inc/widgets/widget-fields.php:39
+msgid "Add url here . ."
+msgstr ""
+
+#: inc/widgets/widgets.php:19 inc/widgets/widgets.php:32
+#: inc/widgets/widgets.php:45 inc/widgets/widgets.php:59
+#: inc/widgets/widgets.php:73 inc/widgets/widgets.php:86
+#: inc/widgets/widgets.php:98
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:257
+msgid "Ajax pagination type"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:176
+msgid "All"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:270
+msgid "All in one migration"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:138
+msgid "All Ready for demo import!! Setup your site exactly like demo"
+msgstr ""
+
+#: inc/customizer/sections/innerpages.php:21
+msgid "Archive"
+msgstr ""
+
+#: inc/customizer/sections/sidebar-layouts.php:140
+msgid "Archive/Category Sidebar"
+msgstr ""
+
+#: inc/class-breadcrumb.php:268
+msgid "Archives"
+msgstr ""
+
+#: inc/customizer/sections/innerpages.php:114
+msgid "Author Box"
+msgstr ""
+
+#: inc/widgets/author-info.php:92
+msgid "Author Image"
+msgstr ""
+
+#: inc/widgets/author-info.php:81
+msgid "Author Info"
+msgstr ""
+
+#: inc/widgets/author-info.php:86 inc/widgets/author-info.php:87
+msgid "Author Name"
+msgstr ""
+
+#: inc/widgets/author-info.php:97
+msgid "Author Tag"
+msgstr ""
+
+#: inc/widgets/author-info.php:103
+msgid "Author URL"
+msgstr ""
+
+#: inc/hooks/hooks.php:21 inc/hooks/hooks.php:23
+msgid "Back to top"
+msgstr ""
+
+#: inc/customizer/sections/footer-options.php:202
+#: inc/customizer/sections/footer-options.php:298
+#: inc/customizer/sections/global-options.php:435
+#: inc/customizer/sections/header-options.php:240
+msgid "Background"
+msgstr ""
+
+#: inc/customizer/sections/header-options.php:385
+#: inc/customizer/sections/header-options.php:419
+msgid "Background Color"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:164
+msgid "Background color and text color field"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:150
+msgid "Background color field"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:292
+msgid "Background Image field"
+msgstr ""
+
+#: inc/customizer/custom-controls/control-group-control/control-group-control.php:48
+msgid "Background Type"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:115
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:524
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:527
+msgid "Banner Slider"
+msgstr ""
+
+#: inc/hooks/frontpage-sections.php:54
+#: inc/customizer/sections/frontpage-sections.php:152
+msgid "Behind the blog"
+msgstr ""
+
+#. Author of the theme
+msgid "Blaze Themes"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:58
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:182
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:250
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:337
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:475
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:592
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:677
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:762
+msgid "Block Title"
+msgstr ""
+
+#: inc/customizer/sections/global-options.php:454
+#: inc/customizer/custom-controls/control-group-control/control-group-control.php:45
+msgid "Border"
+msgstr ""
+
+#: inc/customizer/sections/header-options.php:488
+msgid "Border Bottom"
+msgstr ""
+
+#: inc/customizer/custom-controls/control-group-control/control-group-control.php:47
+msgid "Border Radius (%)"
+msgstr ""
+
+#: inc/customizer/sections/header-options.php:472
+msgid "Border Top"
+msgstr ""
+
+#: inc/customizer/custom-controls/control-group-control/control-group-control.php:46
+msgid "Border Width (px)"
+msgstr ""
+
+#: inc/customizer/sections/header-options.php:457
+msgid "Borders"
+msgstr ""
+
+#: inc/customizer/custom-controls/spacing-control/spacing-control.php:44
+msgid "Bottom"
+msgstr ""
+
+#: inc/customizer/sections/header-options.php:226
+msgid "Bottom box shadow"
+msgstr ""
+
+#: inc/customizer/sections/footer-options.php:217
+msgid "Bottom Footer"
+msgstr ""
+
+#: inc/customizer/sections/frontpage-sections.php:412
+msgid "Bottom Full Width Section"
+msgstr ""
+
+#: inc/customizer/sections/frontpage-sections.php:451
+msgid "Bottom Full Width Section Blocks"
+msgstr ""
+
+#: inc/customizer/sections/footer-options.php:156
+msgid "Boxed Width"
+msgstr ""
+
+#: inc/customizer/sections/global-options.php:241
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/class-breadcrumb.php:265
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/hooks/hooks.php:150
+msgid "Browse : "
+msgstr ""
+
+#: inc/class-breadcrumb.php:264
+msgid "Browse:"
+msgstr ""
+
+#: inc/customizer/sections/global-options.php:354
+msgid "Button Align"
+msgstr ""
+
+#: inc/customizer/sections/global-options.php:185
+msgid "Buttons"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:223
+msgid "Buy Now"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:320
+msgid "Cancel"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:133
+#: inc/admin/customizer-upsell/theme-upsell.php:183
+#: inc/admin/customizer-upsell/theme-upsell.php:202
+#: inc/admin/customizer-upsell/theme-upsell.php:221
+#: inc/admin/customizer-upsell/theme-upsell.php:240
+msgid "Carousel/Slider options"
+msgstr ""
+
+#: inc/widgets/posts-list.php:113
+msgid "Categories"
+msgstr ""
+
+#: inc/hooks/frontpage-sections.php:111 inc/hooks/frontpage-sections.php:190
+#: inc/customizer/sections/frontpage-sections.php:258
+#: inc/customizer/sections/frontpage-sections.php:322
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:177
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:754
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:757
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:764
+msgid "Categories Collection"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:120
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:255
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:342
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:424
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:532
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:597
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:682
+msgid "Category"
+msgstr ""
+
+#: inc/widgets/category-collection.php:108
+msgid "Category Collection"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:318
+msgid "Category colors field"
+msgstr ""
+
+#: inc/customizer/custom-controls/repeater/repeater.php:134
+msgid "Check to open link in new tab"
+msgstr ""
+
+#: inc/customizer/custom-controls/repeater/repeater.php:329
+#: inc/customizer/custom-controls/repeater/repeater.php:437
+msgid "Checkbox"
+msgstr ""
+
+#: inc/widgets/category-collection.php:114
+msgid "Choose the categories to display"
+msgstr ""
+
+#: inc/widgets/posts-list.php:114
+msgid "Choose the category to display list of posts"
+msgstr ""
+
+#: inc/customizer/custom-controls/typography/typography.php:56
+msgid ""
+"Click on custom to see changes you made here. Theme default will revert "
+"typography to the default values generated by theme"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:460
+msgid "Clone Block"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:102
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:167
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:235
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:322
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:409
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:449
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:461
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:518
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:579
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:664
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:749
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:813
+msgid "Close"
+msgstr ""
+
+#: inc/customizer/sections/footer-options.php:186
+#: inc/customizer/sections/footer-options.php:282
+#: inc/customizer/sections/header-options.php:366
+#: inc/customizer/custom-controls/control-group-control/control-group-control.php:42
+#: inc/customizer/custom-controls/repeater/repeater.php:268
+#: inc/customizer/custom-controls/repeater/repeater.php:277
+#: inc/customizer/custom-controls/repeater/repeater.php:372
+#: inc/customizer/custom-controls/repeater/repeater.php:380
+msgid "Color"
+msgstr ""
+
+#: inc/customizer/sections/frontpage-sections.php:204
+#: inc/customizer/sections/header-options.php:402
+msgid "Colors"
+msgstr ""
+
+#: inc/hooks/frontpage-sections.php:354
+#: inc/customizer/sections/frontpage-sections.php:489
+msgid "Column One"
+msgstr ""
+
+#: inc/hooks/frontpage-sections.php:368
+#: inc/customizer/sections/frontpage-sections.php:503
+msgid "Column Three"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:163
+msgid "Column title text field"
+msgstr ""
+
+#: inc/hooks/frontpage-sections.php:361
+#: inc/customizer/sections/frontpage-sections.php:496
+msgid "Column Two"
+msgstr ""
+
+#. %s is the page number.
+#: inc/class-breadcrumb.php:274
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:39
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/customizer/sections/global-options.php:114
+msgid "Container"
+msgstr ""
+
+#: inc/customizer/sections/global-options.php:145
+msgid "Container width (px)"
+msgstr ""
+
+#: inc/customizer/sections/footer-options.php:18
+#: inc/customizer/sections/frontpage-sections.php:86
+#: inc/customizer/sections/header-options.php:18
+#: inc/customizer/sections/innerpages.php:90
+msgid "Content"
+msgstr ""
+
+#: inc/customizer/sections/global-options.php:313
+msgid "Content "
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:258
+msgid "Content Length field"
+msgstr ""
+
+#: inc/customizer/sections/footer-options.php:232
+msgid "Content Setting"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:36
+#: template-parts/single/layouts/layout-one.php:46
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/customizer/custom-controls/typography/typography.php:279
+msgid "Custom"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:305
+msgid "Custom copyright WYSIWYG field"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:149
+msgid "Custom image fields for author"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:446
+msgid "Customize Site"
+msgstr ""
+
+#: inc/customizer/custom-controls/repeater/repeater.php:41
+msgid "Customizer Repeater"
+msgstr ""
+
+#: inc/class-breadcrumb.php:789 inc/class-breadcrumb.php:1218
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/customizer/sections/header-options.php:274
+msgid "Default"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:328
+msgid "Demo Import Progress"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:390
+msgid "Demo importer plugin activated"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:403
+msgid "Demo importer plugin installed and activated"
+msgstr ""
+
+#: inc/widgets/author-info.php:108
+msgid "Description"
+msgstr ""
+
+#: inc/customizer/sections/header-options.php:293
+msgid "Desktop"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:452
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/customizer/sections/site-identity.php:38
+msgid "Display site description"
+msgstr ""
+
+#: inc/customizer/sections/site-identity.php:24
+msgid "Display site title"
+msgstr ""
+
+#: inc/template-functions.php:109
+msgctxt "DM Sans: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:447
+msgid "Documentation"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:97 template-parts/content-page.php:39
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/customizer/sections/footer-options.php:250
+msgid "Enable bottom footer"
+msgstr ""
+
+#: inc/customizer/sections/footer-options.php:51
+msgid "Enable footer section"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:92
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:157
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:312
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:399
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:508
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:569
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:654
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:739
+msgid "Enable or Disable"
+msgstr ""
+
+#: inc/customizer/sections/frontpage-sections.php:104
+msgid "Enable section"
+msgstr ""
+
+#: inc/customizer/sections/global-options.php:34
+msgid "Enable sticky header"
+msgstr ""
+
+#: inc/customizer/sections/global-options.php:286
+msgid "Enable sticky sidebars"
+msgstr ""
+
+#: inc/customizer/customizer.php:100
+#, php-format
+msgid ""
+"Enabling this control will display all the frontpage sections theme provides "
+"hiding other home content. Disable this if you want default home template or "
+"if you are editing frontpage with Elementor. %1$1s Manage frontpage sections "
+"%2$2s click here %3$3s"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:76
+msgid "Error page title field"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:407
+msgid "Error while trying to install or active the plugin."
+msgstr ""
+
+#: inc/customizer/sections/innerpages.php:89
+msgid "Excerpt"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:66
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:483
+msgid "Featured Products"
+msgstr ""
+
+#: inc/widgets/social-icons.php:85
+msgid "Find Me On"
+msgstr ""
+
+#: inc/customizer/sections/header-options.php:438
+#: inc/customizer/custom-controls/typography/typography.php:53
+msgid "Font Color"
+msgstr ""
+
+#: inc/customizer/custom-controls/typography/typography.php:50
+msgid "Font Family"
+msgstr ""
+
+#: inc/customizer/custom-controls/typography/typography.php:51
+msgid "Font Size"
+msgstr ""
+
+#: inc/customizer/custom-controls/typography/typography.php:54
+msgid "Font Style"
+msgstr ""
+
+#: inc/customizer/custom-controls/typography/typography.php:52
+msgid "Font Weight"
+msgstr ""
+
+#: inc/widgets/widgets.php:96
+#, php-format
+msgid "Footer Column %d"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:291
+msgid "Footer column layouts"
+msgstr ""
+
+#: inc/customizer/sections/footer-options.php:134
+msgid "Footer Layouts"
+msgstr ""
+
+#: inc/customizer/customizer.php:122
+msgid "Footer Options"
+msgstr ""
+
+#: inc/customizer/sections/frontpage-sections.php:464
+msgid "Footer Three Column"
+msgstr ""
+
+#: inc/customizer/sections/frontpage-sections.php:477
+#: inc/customizer/sections/frontpage-sections.php:515
+msgid "Footer Three Column Section"
+msgstr ""
+
+#: inc/customizer/sections/footer-options.php:68
+msgid "Footer Widgets"
+msgstr ""
+
+#: inc/customizer/sections/footer-options.php:151
+msgid "Footer Width"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:128
+#: inc/admin/customizer-upsell/theme-upsell.php:147
+#: inc/admin/customizer-upsell/theme-upsell.php:161
+#: inc/admin/customizer-upsell/theme-upsell.php:178
+#: inc/admin/customizer-upsell/theme-upsell.php:197
+#: inc/admin/customizer-upsell/theme-upsell.php:216
+#: inc/admin/customizer-upsell/theme-upsell.php:235
+msgid "For more advanced options,"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:71
+msgid "For more breadcrumbs settings,"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:102
+msgid "For more header layouts,"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:112
+msgid "For more menu settings,"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:254
+#: inc/admin/customizer-upsell/theme-upsell.php:272
+#: inc/admin/customizer-upsell/theme-upsell.php:289
+#: inc/admin/customizer-upsell/theme-upsell.php:303
+#: inc/admin/customizer-upsell/theme-upsell.php:316
+msgid "For more options,"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:87
+msgid "For more sidebar options,"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:54
+msgid "For more social icons settings,"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:276
+msgid ""
+"For your website to look exactly like the demo,the import process will "
+"install and activate the following plugin if they are not installed or "
+"activated."
+msgstr ""
+
+#: inc/admin/class-theme-info.php:207
+msgid "Free"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:129
+msgid "Free and Premium Demos"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:123
+#: inc/admin/customizer-upsell/upsell-section/upsell-info.php:45
+msgid "Free vs PRO"
+msgstr ""
+
+#: inc/customizer/sections/frontpage-sections.php:398
+msgid "Frontpage Bottom Full Width"
+msgstr ""
+
+#: inc/customizer/sections/frontpage-sections.php:347
+msgid "Frontpage Bottom Full Width Woocommerce Section"
+msgstr ""
+
+#: inc/widgets/widgets.php:84
+msgid "Frontpage Middle - Left Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:71
+msgid "Frontpage Middle - Right Sidebar"
+msgstr ""
+
+#: inc/customizer/sections/frontpage-sections.php:219
+msgid "Frontpage Middle Left Content"
+msgstr ""
+
+#: inc/customizer/sections/frontpage-sections.php:283
+msgid "Frontpage Middle Right Content"
+msgstr ""
+
+#: inc/customizer/customizer.php:84
+msgid "Frontpage Sections"
+msgstr ""
+
+#: inc/customizer/sections/frontpage-sections.php:21
+msgid "Frontpage Top Full Width"
+msgstr ""
+
+#: inc/customizer/sections/footer-options.php:155
+msgid "Full Width"
+msgstr ""
+
+#: inc/customizer/sections/frontpage-sections.php:59
+msgid "Full Width Section Blocks"
+msgstr ""
+
+#: inc/customizer/sections/innerpages.php:68
+msgid "General Content"
+msgstr ""
+
+#: inc/customizer/sections/footer-options.php:33
+msgid "General Setting"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:443
+msgid ""
+"Get started with the modern, blog-focused, flexible, and a complete blog "
+"theme made for all types of bloggers."
+msgstr ""
+
+#: inc/customizer/customizer.php:66
+msgid "Global Options"
+msgstr ""
+
+#: 404.php:31
+msgid "Go back to home"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:39
+msgid "Go to Import"
+msgstr ""
+
+#: inc/widgets/social-icons.php:113
+msgid "go to manage social icons"
+msgstr ""
+
+#: inc/customizer/sections/innerpages.php:50
+msgid "Grid Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:75
+msgid "Header Options"
+msgstr ""
+
+#: inc/widgets/widgets.php:17
+msgid "Header Toggle Sidebar"
+msgstr ""
+
+#: inc/customizer/sections/header-options.php:229
+msgid "Hide"
+msgstr ""
+
+#: inc/customizer/sections/frontpage-sections.php:413
+#: inc/customizer/sections/frontpage-sections.php:478
+msgid "Hold and drag vertically to re-order the blocks."
+msgstr ""
+
+#: inc/class-breadcrumb.php:266 inc/hooks/hooks.php:151
+msgid "Home"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:74
+msgid "Home title label field"
+msgstr ""
+
+#: inc/class-breadcrumb.php:771
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: inc/customizer/custom-controls/control-group-control/control-group-control.php:43
+msgid "Hover Color"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://blazethemes.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://blazethemes.com/theme/trendy-blog/"
+msgstr ""
+
+#: inc/customizer/custom-controls/repeater/repeater.php:491
+#: inc/customizer/custom-controls/repeater/repeater.php:520
+msgid "Icon"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:59
+msgid "Icon background type, color and hover color"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:60
+msgid "Icon border with, radius and color"
+msgstr ""
+
+#: inc/customizer/sections/global-options.php:416
+msgid "Icon Color"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:58
+msgid "Icon color and hover color"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:57
+msgid "Icons spacing options"
+msgstr ""
+
+#: inc/customizer/custom-controls/repeater/repeater.php:507
+#: inc/customizer/custom-controls/repeater/repeater.php:521
+msgid "Image"
+msgstr ""
+
+#: inc/customizer/custom-controls/repeater/repeater.php:517
+msgid "Image type"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:319
+msgid "Import Demo"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:41
+msgid "Import Demo Data"
+msgstr ""
+
+#: inc/customizer/customizer.php:113
+msgid "Innerpages"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:229
+msgid "Install"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:136
+msgid ""
+"Install BlazeThemes Demo Importer and Import any available demo in One Click"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:445
+msgid "Install Demos"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:367
+msgid "Installed and Active"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:371
+msgid "Installed but Not Active"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:313
+msgid ""
+"It is always recommended to reset the database for a complete demo import."
+msgstr ""
+
+#: 404.php:29
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:252
+msgid ""
+"It looks like the config file for the demos is missing or conatins errors!. "
+"Demo install can't go futher!"
+msgstr ""
+
+#: template-parts/content-none.php:50
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/customizer/custom-controls/typography/typography.php:264
+msgid "Italic"
+msgstr ""
+
+#: inc/hooks/frontpage-sections.php:309
+#: inc/customizer/sections/frontpage-sections.php:374
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:65
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:477
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:482
+msgid "Latest Products"
+msgstr ""
+
+#: inc/customizer/sections/global-options.php:224
+msgid "Layout One"
+msgstr ""
+
+#: inc/customizer/sections/global-options.php:228
+msgid "Layout Two"
+msgstr ""
+
+#: inc/customizer/sections/global-options.php:199
+msgid "Layouts"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:80
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:117
+msgid "Leave a review"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:59
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:183
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:251
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:338
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:476
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:593
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:678
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:763
+msgid "Leave blank to hide title"
+msgstr ""
+
+#: inc/customizer/custom-controls/spacing-control/spacing-control.php:45
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/sections/sidebar-layouts.php:66
+#: inc/customizer/sections/sidebar-layouts.php:118
+#: inc/customizer/sections/sidebar-layouts.php:170
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer/custom-controls/typography/typography.php:55
+msgid "Line Height"
+msgstr ""
+
+#: inc/customizer/custom-controls/repeater/repeater.php:306
+#: inc/customizer/custom-controls/repeater/repeater.php:321
+#: inc/customizer/custom-controls/repeater/repeater.php:409
+#: inc/customizer/custom-controls/repeater/repeater.php:423
+#: inc/customizer/custom-controls/repeater/repeater.php:544
+#: inc/customizer/custom-controls/repeater/repeater.php:566
+msgid "Link"
+msgstr ""
+
+#: inc/customizer/custom-controls/spacing-control/spacing-control.php:77
+msgid "Link fields"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:67
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/customizer/sections/innerpages.php:46
+msgid "List Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:14
+msgid "Logo & Site Icon"
+msgstr ""
+
+#: inc/widgets/author-info.php:109
+msgid "Lorem ipsum is simply dummy text"
+msgstr ""
+
+#: inc/customizer/sections/footer-options.php:203
+#: inc/customizer/sections/global-options.php:436
+#: inc/customizer/sections/header-options.php:241
+msgid "Manage background"
+msgstr ""
+
+#: inc/customizer/sections/global-options.php:417
+msgid "Manage font color"
+msgstr ""
+
+#: inc/customizer/sections/footer-options.php:107
+msgid "Manage footer widget four"
+msgstr ""
+
+#: inc/customizer/sections/footer-options.php:92
+msgid "Manage footer widget one"
+msgstr ""
+
+#: inc/customizer/sections/footer-options.php:102
+msgid "Manage footer widget three"
+msgstr ""
+
+#: inc/customizer/sections/footer-options.php:97
+msgid "Manage footer widget two"
+msgstr ""
+
+#: inc/customizer/sections/frontpage-sections.php:298
+#, php-format
+msgid ""
+"Manage left sidebar content in widgets area \"Frontpage Middle - Left "
+"Sidebar\" %1$1s manage left sidebar %2$2s"
+msgstr ""
+
+#: inc/customizer/sections/frontpage-sections.php:234
+#, php-format
+msgid ""
+"Manage right sidebar content in widgets area \"Frontpage Middle - Right "
+"Sidebar\" %1$1s manage right sidebar %2$2s"
+msgstr ""
+
+#: inc/customizer/sections/header-options.php:178
+msgid "Manage social icons"
+msgstr ""
+
+#: inc/widgets/social-icons.php:112
+msgid "Manage social icons from customizer "
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:256
+msgid "Masonry post layout"
+msgstr ""
+
+#: template-parts/header/layout-two.php:124
+msgid "MENU"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:116
+msgid "Menu border color and width"
+msgstr ""
+
+#: inc/customizer/sections/header-options.php:272
+msgid "Menu hover effect"
+msgstr ""
+
+#: inc/customizer/sections/header-options.php:255
+msgid "Menu Options"
+msgstr ""
+
+#: inc/customizer/sections/frontpage-sections.php:233
+msgid "Middle Left Content Section"
+msgstr ""
+
+#: inc/customizer/sections/frontpage-sections.php:270
+msgid "Middle Left Content Section Blocks"
+msgstr ""
+
+#: inc/customizer/sections/frontpage-sections.php:297
+msgid "Middle Right Content Section"
+msgstr ""
+
+#: inc/customizer/sections/frontpage-sections.php:334
+msgid "Middle Right Content Section Blocks"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: inc/class-breadcrumb.php:276
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: inc/class-breadcrumb.php:737
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: inc/class-breadcrumb.php:754
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: inc/customizer/sections/header-options.php:313
+msgid "Mobile"
+msgstr ""
+
+#: inc/class-breadcrumb.php:788 inc/class-breadcrumb.php:844
+#: inc/class-breadcrumb.php:1214
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: inc/hooks/frontpage-sections.php:146 inc/hooks/frontpage-sections.php:225
+#: template-parts/header/layout-two.php:37
+msgid "Most Used Categories"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:461
+msgid "New Block"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:134
+#: inc/admin/customizer-upsell/theme-upsell.php:184
+#: inc/admin/customizer-upsell/theme-upsell.php:203
+#: inc/admin/customizer-upsell/theme-upsell.php:222
+#: inc/admin/customizer-upsell/theme-upsell.php:241
+msgid "Newsletter section"
+msgstr ""
+
+#: single.php:40
+msgid "Next"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:455
+msgid "No blocks defined "
+msgstr ""
+
+#: template-parts/posts-column/layout-one.php:32
+#: template-parts/posts-column/layout-three.php:32
+#: template-parts/posts-column/layout-two.php:31
+#: template-parts/posts-grid/layout-one.php:38
+#: template-parts/posts-list/layout-one.php:37
+msgid "No posts found"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:304
+msgid "No Required Plugins Found."
+msgstr ""
+
+#: inc/customizer/sections/sidebar-layouts.php:62
+#: inc/customizer/sections/sidebar-layouts.php:114
+#: inc/customizer/sections/sidebar-layouts.php:166
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/customizer/sections/header-options.php:275
+#: inc/customizer/custom-controls/repeater/repeater.php:522
+msgid "None"
+msgstr ""
+
+#: inc/customizer/custom-controls/typography/typography.php:263
+msgid "Normal"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:363
+msgid "Not Installed"
+msgstr ""
+
+#: template-parts/content-none.php:17
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:133
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:268
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:355
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:545
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:610
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:695
+msgid "Number of posts"
+msgstr ""
+
+#: inc/widgets/posts-list.php:120
+msgid "Number of posts to show"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:88
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:504
+msgid "Number of products"
+msgstr ""
+
+#: inc/customizer/custom-controls/typography/typography.php:265
+msgid "Oblique"
+msgstr ""
+
+#. 1: title.
+#: comments.php:33
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: inc/customizer/sections/global-options.php:396
+msgid "Padding"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:167
+msgid "Padding top, right, bottom and left field for desktop and mobile"
+msgstr ""
+
+#. %s is the page number.
+#: inc/class-breadcrumb.php:272
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/widgets/widgets.php:43 inc/customizer/sections/sidebar-layouts.php:88
+msgid "Page Sidebar"
+msgstr ""
+
+#: template-parts/content-page.php:25 template-parts/content.php:49
+#: template-parts/single/layouts/layout-one.php:84
+msgid "Pages:"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:43
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/widgets/category-collection.php:113
+msgid "Post Categories"
+msgstr ""
+
+#: inc/customizer/sections/innerpages.php:87
+msgid "Post Content to display"
+msgstr ""
+
+#: inc/customizer/sections/sidebar-layouts.php:36
+msgid "Post Sidebar"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:63
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:70
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:187
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:487
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:767
+msgid "Posts Categories"
+msgstr ""
+
+#: inc/hooks/frontpage-sections.php:100 inc/hooks/frontpage-sections.php:268
+#: inc/customizer/sections/frontpage-sections.php:247
+#: inc/customizer/sections/frontpage-sections.php:437
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:245
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:584
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:587
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:594
+msgid "Posts Grid"
+msgstr ""
+
+#: inc/customizer/sections/innerpages.php:42
+msgid "Posts Layouts"
+msgstr ""
+
+#: inc/hooks/frontpage-sections.php:179 inc/hooks/frontpage-sections.php:257
+#: inc/widgets/posts-list.php:108 template-parts/posts-list/layout-one.php:81
+#: inc/customizer/sections/frontpage-sections.php:311
+#: inc/customizer/sections/frontpage-sections.php:426
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:332
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:669
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:672
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:679
+msgid "Posts List"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:260
+#: inc/admin/customizer-upsell/theme-upsell.php:275
+msgid "Prefix for post meta date, comments, author"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:73
+msgid "Prefix title label field"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:216
+msgid "Preview"
+msgstr ""
+
+#: single.php:39
+msgid "Previous"
+msgstr ""
+
+#: functions.php:53
+msgid "Primary"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:204
+msgid "Pro"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:63
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:480
+msgid "Product Type"
+msgstr ""
+
+#: template-parts/posts-grid/layout-one.php:88
+msgid "Read more"
+msgstr ""
+
+#: template-parts/content-archive.php:44
+msgid "Read more . . "
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:136
+#: inc/admin/customizer-upsell/theme-upsell.php:186
+#: inc/admin/customizer-upsell/theme-upsell.php:205
+#: inc/admin/customizer-upsell/theme-upsell.php:224
+#: inc/admin/customizer-upsell/theme-upsell.php:243
+#: inc/admin/customizer-upsell/theme-upsell.php:261
+msgid "Read more button show/hide option with text field"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:28
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/hooks/hooks.php:67 inc/customizer/sections/innerpages.php:149
+#: inc/customizer/sections/innerpages.php:179
+msgid "Related Posts"
+msgstr ""
+
+#: inc/customizer/sections/innerpages.php:184
+msgid "Related posts title"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:277
+msgid "Related posts title and post count options"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:278
+msgid "Related sort by tags or categories"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:103
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:168
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:236
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:323
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:410
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:519
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:580
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:665
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:750
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:814
+msgid "Remove"
+msgstr ""
+
+#: inc/customizer/custom-controls/repeater/repeater.php:547
+#: inc/customizer/custom-controls/repeater/repeater.php:577
+msgid "Remove Icon"
+msgstr ""
+
+#: inc/widgets/widget-fields.php:72
+msgid "Remove image"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:275
+msgid "Required Plugins"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:311
+msgid "Reset Website"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:312
+msgid ""
+"Reseting the website will delete all your post, pages, custom post types, "
+"categories, taxonomies, images and all other customizer and theme option "
+"settings."
+msgstr ""
+
+#: inc/customizer/custom-controls/spacing-control/spacing-control.php:43
+msgid "Right"
+msgstr ""
+
+#: inc/customizer/sections/sidebar-layouts.php:70
+#: inc/customizer/sections/sidebar-layouts.php:122
+#: inc/customizer/sections/sidebar-layouts.php:174
+msgid "Right Sidebar"
+msgstr ""
+
+#: searchform.php:13
+msgctxt "Screen reader text"
+msgid "Search for:"
+msgstr ""
+
+#: inc/customizer/sections/global-options.php:299
+msgid "Scroll To Top"
+msgstr ""
+
+#: inc/customizer/sections/header-options.php:33
+msgid "Search Bar"
+msgstr ""
+
+#: inc/customizer/sections/header-options.php:66
+msgid "Search Icon Color"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:75
+msgid "Search page title label field"
+msgstr ""
+
+#: template-parts/content-none.php:15
+msgid "Search Results for:"
+msgstr ""
+
+#: inc/hooks/hooks.php:153
+msgid "Search results for: "
+msgstr ""
+
+#. %s: search query.
+#: search.php:30
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#. %s is the search query.
+#: inc/class-breadcrumb.php:270
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: searchform.php:14
+msgid "Search something here . ."
+msgstr ""
+
+#: inc/customizer/custom-controls/control-group-control/control-group-control.php:44
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:224
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:803
+msgid "Section show/hide"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:122
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:257
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:344
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:426
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:534
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:599
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:684
+msgid "Select Category"
+msgstr ""
+
+#: inc/widgets/posts-list.php:98
+msgid "Select category"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:99
+msgid "Setup Tutorials"
+msgstr ""
+
+#: inc/widgets/widgets.php:57
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/customizer/custom-controls/repeater/repeater.php:336
+#: inc/customizer/custom-controls/repeater/repeater.php:430
+msgid "Shortcode"
+msgstr ""
+
+#: inc/customizer/sections/header-options.php:228
+msgid "Show"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:302
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:389
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:644
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:729
+msgid "Show button"
+msgstr ""
+
+#: inc/widgets/category-collection.php:126
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:214
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:793
+msgid "Show categories count"
+msgstr ""
+
+#: inc/widgets/category-collection.php:120
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:204
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:783
+msgid "Show categories title"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:292
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:379
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:559
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:634
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:719
+msgid "Show comment"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:147
+msgid "Show comments number"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:282
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:369
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:549
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:624
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:709
+msgid "Show date"
+msgstr ""
+
+#: inc/customizer/customizer.php:99
+msgid "Show frontpage sections"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:166
+msgid "Show on frontpage, innerpages or both select field"
+msgstr ""
+
+#: inc/widgets/posts-list.php:126
+msgid "Show post categories"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:137
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:437
+msgid "Show post date"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:272
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:359
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:614
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:699
+msgid "Show post excerpt"
+msgstr ""
+
+#: inc/widgets/posts-list.php:132
+msgid "Show post excerpt content"
+msgstr ""
+
+#: inc/customizer/sections/global-options.php:331
+msgid "Show scroll to top"
+msgstr ""
+
+#: inc/customizer/sections/header-options.php:51
+msgid "Show search bar"
+msgstr ""
+
+#: inc/customizer/sections/header-options.php:103
+msgid "Show sidebar toggle bar"
+msgstr ""
+
+#: inc/customizer/sections/header-options.php:155
+msgid "Show social icons"
+msgstr ""
+
+#: inc/customizer/sections/innerpages.php:132
+msgid "Show/Hide author box"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:276
+msgid "Show/hide author box "
+msgstr ""
+
+#: inc/customizer/sections/global-options.php:257
+msgid "Show/Hide Breadcrumb"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:135
+#: inc/admin/customizer-upsell/theme-upsell.php:185
+#: inc/admin/customizer-upsell/theme-upsell.php:204
+#: inc/admin/customizer-upsell/theme-upsell.php:223
+#: inc/admin/customizer-upsell/theme-upsell.php:242
+#: inc/admin/customizer-upsell/theme-upsell.php:259
+#: inc/admin/customizer-upsell/theme-upsell.php:274
+msgid ""
+"Show/hide options for post meta date, comments, author, tags, categories"
+msgstr ""
+
+#: inc/customizer/sections/innerpages.php:167
+msgid "Show/Hide related posts"
+msgstr ""
+
+#: inc/widgets/widgets.php:30
+msgid "Sidebar"
+msgstr ""
+
+#: inc/customizer/sections/sidebar-layouts.php:21
+msgid "Sidebar Layouts"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:90
+msgid "Sidebar options for error page"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:89
+msgid "Sidebar options for search page"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:91
+msgid "Sidebar options in post meta"
+msgstr ""
+
+#: inc/customizer/sections/header-options.php:85
+msgid "Sidebar toggle"
+msgstr ""
+
+#: inc/customizer/sections/header-options.php:118
+msgid "Sidebar Toggle Color"
+msgstr ""
+
+#: inc/customizer/sections/global-options.php:167
+msgid "Sidebar width (%)"
+msgstr ""
+
+#: inc/customizer/sections/frontpage-sections.php:172
+msgid "Signature Image"
+msgstr ""
+
+#: inc/customizer/sections/innerpages.php:99
+msgid "Single"
+msgstr ""
+
+#: inc/customizer/customizer.php:57
+msgid "Site Identity"
+msgstr ""
+
+#: inc/customizer/sections/site-identity.php:18
+msgid "Site Title & Tagline"
+msgstr ""
+
+#: inc/customizer/sections/site-identity.php:64
+msgid "Site Title Color"
+msgstr ""
+
+#: header.php:28
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer/sections/global-options.php:47
+msgid "Social"
+msgstr ""
+
+#: inc/customizer/sections/global-options.php:100
+msgid "Social Icons"
+msgstr ""
+
+#: inc/customizer/sections/header-options.php:137
+#: inc/customizer/custom-controls/repeater/repeater.php:530
+msgid "Social icons"
+msgstr ""
+
+#: inc/customizer/sections/global-options.php:62
+msgid "Social Setting"
+msgstr ""
+
+#: template-parts/content-none.php:41
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/customizer/sections/global-options.php:18
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/customizer/sections/global-options.php:270
+msgid "Sticky Sidebar"
+msgstr ""
+
+#: inc/customizer/sections/footer-options.php:119
+#: inc/customizer/sections/frontpage-sections.php:189
+#: inc/customizer/sections/header-options.php:190
+#: inc/customizer/sections/site-identity.php:54
+msgid "Style"
+msgstr ""
+
+#: inc/customizer/sections/global-options.php:128
+#: inc/customizer/sections/global-options.php:379
+msgid "Style "
+msgstr ""
+
+#: inc/customizer/sections/footer-options.php:171
+#: inc/customizer/sections/footer-options.php:267
+#: inc/customizer/sections/header-options.php:206
+msgid "Style Setting"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:115
+msgid "Sub menu color and background color"
+msgstr ""
+
+#: inc/customizer/custom-controls/repeater/repeater.php:292
+#: inc/customizer/custom-controls/repeater/repeater.php:395
+msgid "Subtitle"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:105
+msgid "Support"
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:70
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/widgets/author-info.php:12
+msgid "TB : Author Info"
+msgstr ""
+
+#: inc/widgets/category-collection.php:12
+msgid "TB : Category Collection"
+msgstr ""
+
+#: inc/widgets/posts-list.php:12
+msgid "TB : Posts List"
+msgstr ""
+
+#: inc/widgets/social-icons.php:13
+msgid "TB : Social Icons"
+msgstr ""
+
+#: inc/customizer/custom-controls/repeater/repeater.php:299
+#: inc/customizer/custom-controls/repeater/repeater.php:314
+#: inc/customizer/custom-controls/repeater/repeater.php:402
+#: inc/customizer/custom-controls/repeater/repeater.php:416
+msgid "Text"
+msgstr ""
+
+#: inc/widgets/author-info.php:13
+msgid "The information of  in detail author."
+msgstr ""
+
+#: inc/widgets/social-icons.php:14
+msgid "The list of social icons."
+msgstr ""
+
+#: inc/customizer/customizer.php:137
+msgid "Theme Color"
+msgstr ""
+
+#: inc/customizer/custom-controls/typography/typography.php:278
+msgid "Theme Default"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:111
+msgid "Theme demo"
+msgstr ""
+
+#: inc/customizer/customizer.php:154
+msgid "Theme Hover Color"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:272
+msgid ""
+"This process will install all the required plugins, import contents and "
+"setup customizer and theme options."
+msgstr ""
+
+#: inc/customizer/sections/frontpage-sections.php:157
+#: inc/customizer/custom-controls/repeater/repeater.php:285
+#: inc/customizer/custom-controls/repeater/repeater.php:388
+msgid "Title"
+msgstr ""
+
+#: inc/customizer/sections/header-options.php:346
+msgid "Toggle Button Colors"
+msgstr ""
+
+#: inc/customizer/custom-controls/spacing-control/spacing-control.php:42
+msgid "Top"
+msgstr ""
+
+#: inc/customizer/sections/frontpage-sections.php:35
+msgid "Top Full Width Section"
+msgstr ""
+
+#. Name of the theme
+msgid "Trendy Blog"
+msgstr ""
+
+#: footer.php:45
+#, php-format
+msgid "Trendy Blog - Modern WordPress Theme. All Rights Reserved. %s."
+msgstr ""
+
+#: inc/admin/class-theme-info.php:78 inc/admin/class-theme-info.php:79
+msgid "Trendy Blog Info"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Trendy Blog is a modern responsive WordPress theme that lets you write blog "
+"posts and articles with ease. Focusing on user flexibility it has very easy-"
+"to-use customizer options. It has multiple blog posts layouts and 4 useful "
+"widgets that make your blog website seem complete. Compatible with the "
+"latest WordPress version, it comes with dozens of amazing features like "
+"numerous colors option, site title typography with more than 600+ google "
+"fonts, sticky header, social icons, button layouts, page breadcrumbs, "
+"sidebar layouts, sticky sidebar, scroll to top options, and much more to "
+"explore inside the theme. We provide free support for you and are glad to "
+"help you out with any type of theme issue."
+msgstr ""
+
+#: inc/admin/class-theme-info.php:436
+msgid "Trendy Blog Welcome Notice"
+msgstr ""
+
+#: inc/customizer/sections/header-options.php:524
+#: inc/customizer/sections/site-identity.php:93
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer/sections/header-options.php:506
+#: inc/customizer/sections/site-identity.php:75
+msgid "Typography "
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:130
+#: inc/admin/customizer-upsell/theme-upsell.php:180
+#: inc/admin/customizer-upsell/theme-upsell.php:199
+#: inc/admin/customizer-upsell/theme-upsell.php:218
+#: inc/admin/customizer-upsell/theme-upsell.php:237
+msgid "Unlimited blocks - clone and add blocks"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:56
+msgid "Unlimited social icons options"
+msgstr ""
+
+#: inc/admin/customizer-upsell/upsell-section/upsell-info.php:27
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: inc/customizer/custom-controls/repeater/repeater.php:510
+msgid "Upload Image"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:25
+msgid "View Premium"
+msgstr ""
+
+#: woocommerce/woocommerce.php:181
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:270
+#, php-format
+msgid ""
+"We recommend you backup your website content before attempting to import the "
+"demo so that you can recover your website if something goes wrong. You can "
+"use %s plugin for it."
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: inc/class-breadcrumb.php:278
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: inc/class-breadcrumb.php:817
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: inc/widgets/author-info.php:79 inc/widgets/category-collection.php:106
+#: inc/widgets/posts-list.php:106 inc/widgets/social-icons.php:83
+msgid "Widget Title"
+msgstr ""
+
+#: inc/customizer/sections/footer-options.php:85
+msgid "Widgets"
+msgstr ""
+
+#: inc/admin/customizer-upsell/theme-upsell.php:165
+msgid "Width column options"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:53
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:467
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:470
+msgid "Woo Products"
+msgstr ""
+
+#: inc/customizer/sections/frontpage-sections.php:361
+#: inc/customizer/sections/frontpage-sections.php:385
+msgid "Woocommerce Blocks"
+msgstr ""
+
+#: inc/customizer/custom-controls/blocks-repeater/blocks-repeater.php:109
+msgid "Woocommerce Plugin not activated"
+msgstr ""
+
+#: inc/widgets/author-info.php:98
+msgid "Writer"
+msgstr ""
+
+#: inc/class-breadcrumb.php:787 inc/class-breadcrumb.php:816
+#: inc/class-breadcrumb.php:843 inc/class-breadcrumb.php:870
+#: inc/class-breadcrumb.php:1210
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/admin/class-theme-info.php:442
+msgid "You have successfully activated Trendy Blog !! "
+msgstr ""

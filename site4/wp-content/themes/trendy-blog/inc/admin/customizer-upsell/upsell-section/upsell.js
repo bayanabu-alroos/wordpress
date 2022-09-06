@@ -1,0 +1,1 @@
+!function(t){t.sectionConstructor["trendy-blog-upsell-button"]=t.Section.extend({attachEvents:function(){},isContextuallyActive:function(){return!0}})}(wp.customize);

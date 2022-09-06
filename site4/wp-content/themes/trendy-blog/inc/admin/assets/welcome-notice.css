@@ -1,0 +1,23 @@
+/*---------------------------
+   Welcome Notice Styling
+----------------------------*/
+.trendy-blog-welcome-notice .notice-content-wrap {
+    display: flex;
+}
+
+.trendy-blog-welcome-notice .notice-highlight {
+    font-weight: 500;
+    font-size: 1.1rem;
+}
+
+.trendy-blog-welcome-notice .notice-content {
+    padding: 0px 20px;
+}
+
+.trendy-blog-welcome-notice .notice-actions {
+    padding-top: 15px;
+}
+
+.trendy-blog-welcome-notice .notice-actions a {
+    padding: 6px 22px;
+}

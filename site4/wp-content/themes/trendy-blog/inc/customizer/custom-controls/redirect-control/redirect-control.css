@@ -1,0 +1,15 @@
+.customize-control-redirect-link .section-content-wrap {
+    padding: 0 12px;
+}
+
+.customize-control-redirect-link .link-item {
+    display: block;
+    color: #1d2c33;
+    padding: 11px;
+    text-decoration: none;
+    border: 1px dashed #1d2c33;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 12px;
+    font-weight: bold;
+}

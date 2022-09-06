@@ -1,0 +1,19 @@
+2022-09-06T06:07:16+00:00 CRITICAL Uncaught Exception: Invalid post. in C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\system\wp-content\plugins\elementor\core\settings\page\manager.php:101
+Stack trace:
+#0 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\system\wp-content\plugins\elementor\core\base\document.php(1612): Elementor\Core\Settings\Page\Manager->ajax_before_save_settings()
+#1 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\system\wp-content\plugins\elementor\core\base\document.php(789): Elementor\Core\Base\Document->save_settings()
+#2 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\system\wp-content\plugins\elementor\core\kits\manager.php(262): Elementor\Core\Base\Document->update_settings()
+#3 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\system\wp-content\plugins\elementor\core\kits\manager.php(420): Elementor\Core\Kits\Manager->update_kit_settings_based_on_option()
+#4 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\system\wp-includes\class-wp-hook.php(309): Elementor\Core\Kits\Manager->Elementor\Core\Kits\{closure}()
+#5 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\system\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters()
+#6 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\system\wp-includes\plugin.php(476): WP_Hook->do_action()
+#7 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\system\wp-includes\option.php(530): do_action()
+#8 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\system\wp-content\plugins\themegrill-demo-importer\includes\class-demo-importer.php(829): update_option()
+#9 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\system\wp-content\plugins\themegrill-demo-importer\includes\class-demo-importer.php(726): TG_Demo_Importer->import_core_options()
+#10 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\system\wp-includes\class-wp-hook.php(307): TG_Demo_Importer->ajax_import_demo()
+#11 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\system\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters()
+#12 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\system\wp-includes\plugin.php(476): WP_Hook->do_action()
+#13 C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\system\wp-admin\admin-ajax.php(187): do_action()
+#14 {main}
+  thrown in C:\Bitnami\wordpress-6.0.1-0\apache2\htdocs\system\wp-content\plugins\elementor\core\settings\page\manager.php on line 101
+

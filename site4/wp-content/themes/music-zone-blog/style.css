@@ -1,0 +1,86 @@
+/**
+Theme Name: Music Zone Blog 
+Theme URI: https://themepalace.com/downloads/music-zone-blog/
+Author: themepalace
+Author URI: https://themepalace.com
+Version: 1.0.1
+Requires PHP: 5.6
+Tested up to: 5.9
+Requires at least: 5.0
+Template: music-zone
+Text Domain: music-zone-blog
+Description: Music Zone Blog is a Child Theme of Music Zone. Music Zone Blog is the best ever crafted free WordPress theme for Blogger. Music Zone Blog has nice, beautiful, and professional layouts. Music Zone Blog is very simple and totally responsive. It has a clean design and a smooth presentation. People who love the simple yet attractive ways of presenting their articles will choose the Music Zone Blog theme.
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Tags: translation-ready, custom-background, theme-options, custom-menu, threaded-comments, featured-images, footer-widgets, editor-style, right-sidebar, full-width-template, two-columns, grid-layout, custom-colors, custom-header, custom-logo, featured-image-header, blog, portfolio, entertainment
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+
+#music_zone_recent_posts_section .post-wrapper {
+    box-shadow: 0px 0px 65px 0px rgb(121 121 121 / 18%);
+    border-radius: 20px;
+}
+
+#music_zone_featured_posts_section .entry-title a {
+    color: #000;
+}
+
+#music_zone_featured_posts_section{
+	padding: 60px 0;
+}
+
+#music_zone_about_section{
+	padding-bottom: 60px;
+}
+
+#music_zone_recent_posts_section{
+	padding: 60px 0;
+	text-align: center;
+}
+
+#music_zone_promotions_section .wrapper {
+    max-width: 800px;
+    text-align: center;
+}
+
+#music_zone_promotions_section{
+	background-size: cover;
+}
+
+#music_zone_promotions_section .entry-content,
+#music_zone_promotions_section .video-button{
+	position: relative;
+}
+
+#music_zone_featured_posts_section .entry-title a:focus, 
+#music_zone_featured_posts_section .entry-title a:hover {
+    color: #ff2d55;
+}
+
+.page article .featured-image {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.mfp-iframe-scaler button:hover {
+    background-color: transparent;
+}
+
+.main-navigation ul.nav-menu li.current-menu-item > a, .main-navigation ul.nav-menu li:hover > a, .main-navigation ul.nav-menu li:focus > a {
+    color: #ff2d55;
+}
+
+
+@media screen and (min-width: 1024px){
+	#music_zone_latest_posts_section.page-section {
+			padding: 60px 0;
+	}
+
+	.main-navigation ul.nav-menu > li.current-menu-item > a, .main-navigation ul.nav-menu > li > a:hover, .main-navigation ul.nav-menu > li > a:focus {
+	    border-bottom: 1px solid #ff2d55;
+	}
+
+}

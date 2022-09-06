@@ -1,0 +1,354 @@
+# <!=Copyright (C) 2022 Catch Themes
+# This file is distributed under the GNU General Public License v2 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Lyna 1.1\n"
+"Report-Msgid-Bugs-To: https://catchthemes.com/contact-us/\n"
+"POT-Creation-Date: 2022-08-11 00:54:37+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Catch Themes <info@catchthemes.com>\n"
+"Language-Team: Catch Themes <info@catchthemes.com>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: inc/patterns/hero-content.php:12
+msgid "6"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Lyna"
+msgstr ""
+
+#: inc/about.php:48
+msgid "Free Full Site Editing WordPress Theme"
+msgstr ""
+
+#: inc/about.php:56
+msgid "Getting Started with Lyna!"
+msgstr ""
+
+#: inc/about.php:57
+msgid ""
+"Awesome! Lyna has been installed and activated successfully. Now, you can "
+"start building your dream website with a wide range of highly-customizable "
+"block patterns, templates, and template parts available in this astounding "
+"theme."
+msgstr ""
+
+#: inc/about.php:58
+msgid "Theme documentation"
+msgstr ""
+
+#: inc/about.php:64
+msgid "More Features with Lyna Pro plugin"
+msgstr ""
+
+#: inc/about.php:65
+msgid ""
+"To get more beautiful block patterns and templates, we recommend you "
+"activate the Lyna Pro. With the pro theme installed, get more options, "
+"blocks, block patterns, templates and template parts."
+msgstr ""
+
+#: inc/about.php:66
+msgid "Buy Lyna Pro"
+msgstr ""
+
+#: inc/about.php:74
+msgid "Important Links"
+msgstr ""
+
+#: inc/about.php:75
+msgid "Theme Info"
+msgstr ""
+
+#: inc/about.php:76
+msgid "View Demo"
+msgstr ""
+
+#: inc/about.php:77
+msgid "Theme Instructions"
+msgstr ""
+
+#: inc/about.php:78
+msgid "Change log"
+msgstr ""
+
+#: inc/about.php:79
+msgid "Support"
+msgstr ""
+
+#: inc/about.php:86
+msgid "Leave us a review"
+msgstr ""
+
+#: inc/about.php:87
+msgid ""
+"Loved Lyna? Feel free to leave your feedback. Your opinion helps us reach "
+"more audiences!"
+msgstr ""
+
+#: inc/about.php:88
+msgid "Review"
+msgstr ""
+
+#: inc/about.php:106
+msgid "Instructions/Documentation"
+msgstr ""
+
+#: inc/about.php:107
+msgid ""
+"Thank you for installing the theme. Further, checkout our theme "
+"instructions/documentation to start building your website the way you want."
+msgstr ""
+
+#: inc/about.php:108 inc/about.php:114
+msgid "Support Forum"
+msgstr ""
+
+#: inc/about.php:112
+msgid "Got theme support question?"
+msgstr ""
+
+#: inc/about.php:113
+msgid ""
+"Get genuine support from genuine people. Whether it's customization or "
+"compatibility, our seasoned developers deliver tailored solutions to your "
+"queries."
+msgstr ""
+
+#: inc/about.php:131 inc/about.php:133
+msgid "Import Demo"
+msgstr ""
+
+#: inc/about.php:132 inc/about.php:151
+msgid ""
+"You can easily import the demo content using the Catch Themes Demo Import "
+"Plugin."
+msgstr ""
+
+#: inc/about.php:150
+msgid "Install Catch Themes Demo Import Plugin"
+msgstr ""
+
+#: inc/about.php:152
+msgid "Install Plugin"
+msgstr ""
+
+#: inc/block-patterns.php:19
+msgid "Pages"
+msgstr ""
+
+#: inc/block-styles.php:26
+msgid "No Padding"
+msgstr ""
+
+#: inc/block-styles.php:35 inc/block-styles.php:53 inc/block-styles.php:62
+#: inc/block-styles.php:72 inc/block-styles.php:82 inc/block-styles.php:91
+msgid "Theme Style"
+msgstr ""
+
+#: inc/block-styles.php:44
+msgid "Plain"
+msgstr ""
+
+#: inc/icon-function.php:38
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: inc/icon-function.php:43
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: inc/patterns/404-header.php:6
+msgid "404 Header"
+msgstr ""
+
+#: inc/patterns/404-header.php:16
+msgid "404 Nothing Found"
+msgstr ""
+
+#: inc/patterns/404-header.php:19
+msgid "Oops! That page can't be found"
+msgstr ""
+
+#: inc/patterns/archive-header.php:6
+msgid "Archive Header"
+msgstr ""
+
+#: inc/patterns/contact.php:6
+msgid " Contact"
+msgstr ""
+
+#: inc/patterns/contact.php:22
+msgid "Wanna Talk to Us ?"
+msgstr ""
+
+#: inc/patterns/contact.php:26
+msgid "Contact Us Now"
+msgstr ""
+
+#: inc/patterns/featured-content.php:6
+msgid "Featured Content"
+msgstr ""
+
+#: inc/patterns/featured-content.php:12
+msgid "Featured Post"
+msgstr ""
+
+#: inc/patterns/footer-default.php:6
+msgid "Default footer"
+msgstr ""
+
+#: inc/patterns/footer-default.php:18
+#. Translators: WordPress link.
+msgid ". Powered by %s"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://catchthemes.com"
+msgstr ""
+
+#: inc/patterns/header-default.php:6
+msgid "Default Header"
+msgstr ""
+
+#: inc/patterns/header-media.php:6
+msgid " Header Media"
+msgstr ""
+
+#: inc/patterns/header-media.php:14
+msgid "Photo By Sakin Shrestha"
+msgstr ""
+
+#: inc/patterns/header-media.php:20
+msgid "Into"
+msgstr ""
+
+#: inc/patterns/header-media.php:20
+msgid "Another"
+msgstr ""
+
+#: inc/patterns/header-media.php:20
+msgid "Dimension"
+msgstr ""
+
+#: inc/patterns/header-media.php:25
+msgid "View Project"
+msgstr ""
+
+#: inc/patterns/hero-content.php:6
+msgid " Hero Content"
+msgstr ""
+
+#: inc/patterns/hero-content.php:12
+msgid "+"
+msgstr ""
+
+#: inc/patterns/hero-content.php:16
+msgid "YEARS"
+msgstr ""
+
+#: inc/patterns/hero-content.php:16
+msgid "EXPERIENCE"
+msgstr ""
+
+#: inc/patterns/hero-content.php:16
+msgid "WORKING"
+msgstr ""
+
+#: inc/patterns/hero-content.php:23
+msgid "We Using Top Leading Design Trends"
+msgstr ""
+
+#: inc/patterns/hero-content.php:32
+msgid ""
+"Even by his own high standards Lewis Hamilton set a new benchmark in 2019. "
+"In a class of his own, his sixth championship was defined by opening with "
+"an almost crushing, relentless run …"
+msgstr ""
+
+#: inc/patterns/hero-content.php:37
+msgid "Read More"
+msgstr ""
+
+#: inc/patterns/hidden-404.php:6
+msgid "404 content"
+msgstr ""
+
+#: inc/patterns/hidden-404.php:9
+msgid "This page could not be found. Maybe try a search?"
+msgstr ""
+
+#: inc/patterns/post-header.php:6
+msgid "Post Header"
+msgstr ""
+
+#: inc/patterns/recent-blog-with-sidebar.php:6
+msgid "Recent Blog With Sidebar"
+msgstr ""
+
+#: inc/patterns/search-header.php:6
+msgid "Search Header"
+msgstr ""
+
+#: inc/patterns/search-header.php:19
+msgid "Search"
+msgstr ""
+
+#: inc/patterns/search-header.php:19
+msgid "Search...."
+msgstr ""
+
+#: inc/patterns/sidebar.php:6
+msgid "Sidebar"
+msgstr ""
+
+#: inc/upgrade-button/class-customize.php:74
+msgid "Lyna Pro"
+msgstr ""
+
+#: inc/upgrade-button/class-customize.php:75
+msgid "Upgrade Now"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://catchthemes.com/themes/lyna"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Lyna is a free multipurpose WordPress block theme for full site editing. "
+"This is a multipurpose WordPress theme that comes with a wide range of "
+"designs ideal for any purpose. It is best suited for corporate, businesses, "
+"blogs, magazines, portfolios, photography, personal, freelance, startup, "
+"and many more. The theme is built in with amazing Full Site Editing "
+"features that let you customize your site the way you like. This theme is "
+"fully responsive that looks beautiful on all the screens. The block "
+"patterns are simple and easy to use which let you drag and drop the blocks "
+"and build the content perfectly. There are 11 + different block patterns, "
+"10 Templates, and 5 Template Parts available in this free version theme. "
+"Some of the block patterns are Header media, Sidebar, Hero content, "
+"Contact, Featured content, 404 Header, Archive header, Default footer, "
+"Default header, Post Header, and many more.  All of the blocks, block "
+"patterns, templates, and template parts in Lyna are fast loading, fully "
+"responsive, highly customizable, and adapt to all screen sizes perfectly.  "
+"Download Lyna today and start building your site with blocks!"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Catch Themes"
+msgstr ""

@@ -1,0 +1,8 @@
+#accordion-section-music_zone_event_section,
+#accordion-section-music_zone_counter_section,
+#accordion-section-music_zone_recent_product_section,
+#accordion-section-music_zone_promotion_section,
+#accordion-section-music_zone_playlist_section,
+#accordion-section-music_zone_service_section{
+    display: none !important;
+}

@@ -1,0 +1,37 @@
+.main-slider-section, .sec-services{
+  width: auto;
+  height: auto;
+}
+.main-slider-section .wp-block-buttons.alignleft{
+  border: none !important;
+}
+/*Banner section*/
+.main-slider-section a.wp-block-button__link{
+  box-shadow: 5px 5px 0 0 #fff !important;
+  font-weight: bold;
+  color: #fff !important;
+  text-decoration: none;
+}
+.main-slider-section a.wp-block-button__link:hover {
+  background: #003056 !important;
+  box-shadow: 3px 3px 0 0 #fff !important;
+  -webkit-transition-duration: 1s !important;
+}
+/*Services section*/
+.sec-services h2, .sec-services h3{
+  font-weight: 600 !important;
+}
+.sec-services figure {
+  background-color: #003056;
+  padding: 20px;
+}
+.sec-services figure:hover {
+  box-shadow: 5px 5px 1px 1px #003056;
+  background-color: #75caf7;
+  transition: 0.1s;
+}
+@media screen and (max-width:767px) {
+  .main-slider-section h1{
+    font-size: 30px !important;
+  }
+}
